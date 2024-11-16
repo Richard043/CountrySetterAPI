@@ -35,9 +35,9 @@ Aplikasi ini memungkinkan pengguna untuk mendapatkan informasi tentang berbagai 
 
 ## Video Demo
 
-Klik pada gambar di bawah untuk melihat video demo aplikasi:
+Klik pada link di bawah untuk melihat video demo aplikasi:
 
-[![Video Demo](https://img.youtube.com/vi/11Zil7YhzU8/0.jpg)](https://drive.google.com/uc?id=11Zil7YhzU8JU-sgdyAveuhmloJDe20Lv)
+[Video Demo](https://drive.google.com/uc?id=11Zil7YhzU8JU-sgdyAveuhmloJDe20Lv)
 
 ---
 
