@@ -2,6 +2,9 @@
 
 Aplikasi ini memungkinkan pengguna untuk mendapatkan informasi tentang berbagai negara menggunakan API server pribadi.
 
+#Download
+Download the app: [countryinfo.apk](https://drive.google.com/uc?id=1XjQkM1ZqTgc6uiyMrQV_7PWuJMXc1QoU)
+
 ---
 
 ## Langkah-langkah Menjalankan Proyek
